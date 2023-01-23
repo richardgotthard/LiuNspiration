@@ -28,10 +28,10 @@ Syftet med projektet är att studenter ska få inspiration från andra vid val a
 
 | Krav | Beskrivning |
 | ---- | ----------- |
-| 2.1 | Webbserverhosting sker i en molntjänst ex AWS. |
+| 2.1 | Webbserverhosting kan ske i t.ex. AWS |
 | 2.2 | Databashosting sker med MongoDB som databas i en molntjänst|
-| 2.3 | Bildhosting sker på en molntjänst ex AWS|
+| 2.3 | Bildhosting sker på en molntjänst|
 | 2.4 | Server framework med Express API|
-| 2.5 | Konton sparas i firebase|
+| 2.5 | Konton sparas i MongoDB|
 | 2.6 | Frontend med Vue.js|
 
